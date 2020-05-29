@@ -1,4 +1,5 @@
 # hellow-world
 My first git repo
 
-Addin the first feature
+Adding the first feature - magic happens here
+
